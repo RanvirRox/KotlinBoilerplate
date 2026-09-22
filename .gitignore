@@ -1,0 +1,36 @@
+# Built application files
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Files for the AGP / Gradle build system
+.gradle/
+build/
+app/build/
+
+# External native build folder
+.externalNativeBuild
+.cxx/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log Files
+java_error_in_*.log
+*.log
+
+# Android Studio / IntelliJ IDEA project files
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+.navigation/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Android Profiler
+captures/
